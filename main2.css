@@ -1,0 +1,74 @@
+.top {
+    background-color:#2e4316;
+    padding: 0 12% 0 12%;
+}
+
+nav {
+    height:60px;
+    color:white;
+}
+
+nav a {
+    float:right;
+    margin: 2% 5% 0 0;
+    text-decoration:none;
+    color:#B1B7AB;
+}
+
+.underline {
+    text-decoration-color: #5fba2d;
+    color:#B1B7AB
+}
+
+nav img {
+    float:left; margin: 0.3% 5% 0 0;
+    width: 13%;
+}
+
+.nis-summary {
+    background-color: white;
+    color: #69923a;
+    padding-left: 16%;
+    text-align: left;
+    height: 60px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.nis-summary-text {
+    margin-top:3023%;
+}
+
+.section-two {
+    background-color:#2e4316;
+    color:#B1B7AB;
+    padding: 0.5% 4% 2% 16%;
+    margin:auto;
+}
+
+.nis-image {
+    float: right;
+    margin-top:-7%;
+}
+
+.about-one {
+    font-size:15px;
+}
+.about-two {
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.about-three {
+    padding:3%;
+}
+
+.vision-statement {
+    color: white;
+}
+.vision-paragraph {
+    font-size: 12px;
+}
+.nis-image {
+margin-bottom: 4%;
+}

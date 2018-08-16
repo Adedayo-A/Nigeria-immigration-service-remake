@@ -1,0 +1,81 @@
+/* Nav heading */
+
+.nav-align {
+    background-color:#2e4316;
+    padding: 0 12% 0 12%;
+    height: 30vh;
+    color:white;
+    margin-top: -1%;
+}
+
+nav a {
+    float:right;
+    margin: 4% 5% 0 0;
+    text-decoration:none;
+    color:#B1B7AB;
+}
+
+nav img {
+    float:left;
+    margin-top: 2.5%;
+    width: 13%;
+    text-align: center;
+}
+
+.underline {
+    text-decoration-color: #5fba2d;
+    color:#B1B7AB
+}
+
+/************ FORM STYLING *************/
+
+.form-align {
+    position: absolute;
+    margin-left: 45%;
+    margin-top: -1%;
+    background-color: white;
+    width: 15%;
+}
+
+input {
+    display: block;
+    margin: 5% 0 0 8%;
+    border-color: black;
+    border-width: 1px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 10;
+}
+
+.message-input-text {
+    height: 30vh;
+}
+
+.send-msg-button {
+    background-color: #ff4949;
+    color: #fff;
+    border-color: #ff4949;
+    width: 84%;
+}
+
+/***** CONTACT **********/
+
+.contact-div {
+    float:left;
+    margin-left: 13%;
+}
+
+.contact-div h4 {
+    margin-bottom: -0.01%;
+}
+
+/*********SOCIAL MEDIA CHANNELS***********/
+
+.social-media-channels {
+    float: right;
+    margin: 2% 8% 0 0;
+}
+
+.social-media-channels h4 {
+    font-weight: 550;
+}
